@@ -1,0 +1,22 @@
+{
+  "name": "whydoidoit-bounce",
+  "version": "1.0.0",
+  "description": "A smooth bouncing function between two limits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whydoidoit/bounce.git"
+  },
+  "keywords": [
+    "PlayCanvas"
+  ],
+  "author": "Mike Talbot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/whydoidoit/bounce/issues"
+  },
+  "homepage": "https://github.com/whydoidoit/bounce#readme"
+}
